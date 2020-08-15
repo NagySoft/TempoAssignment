@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margins -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_s">4dp</dimen>
+    <dimen name="margin_m">8dp</dimen>
+    <dimen name="margin_l">16dp</dimen>
+    <dimen name="margin_xl">24dp</dimen>
+    <dimen name="margin_14">14dp</dimen>
+
+    <!--padding-->
+    <dimen name="padding_4dp">4dp</dimen>
+    <dimen name="padding_36dp">36dp</dimen>
+    <dimen name="padding_24dp">24dp</dimen>
+    <dimen name="padding_40dp">40dp</dimen>
+
+    <!-- Font Sizes -->
+    <dimen name="text_button">14sp</dimen>
+    <dimen name="text_head">24sp</dimen>
+    <dimen name="text_subhead">18sp</dimen>
+    <dimen name="text_subhead_2">16sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+
+    <dimen name="dimen_1">1dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_15">15dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_45">45dp</dimen>
+    <dimen name="dimen_66">66dp</dimen>
+    <dimen name="dimen_75">75dp</dimen>
+    <dimen name="dimen_100">100dp</dimen>
+    <dimen name="dimen_150">150dp</dimen>
+    <dimen name="dimen_180">180dp</dimen>
+    <dimen name="dimen_200">200dp</dimen>
+    <dimen name="dimen_300">300dp</dimen>
+</resources>

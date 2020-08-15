@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754954807499",
+    "firebase_url": "https://tempo-4c637.firebaseio.com",
+    "project_id": "tempo-4c637",
+    "storage_bucket": "tempo-4c637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754954807499:android:212e5f435cfc0fd9a8134e",
+        "android_client_info": {
+          "package_name": "com.tempo.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754954807499-n3tdcvadhhevc0nsh03pu94jg28nst9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1UmFiXfXeV3qGGz2LJfrY8WpyzcaEUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754954807499-n3tdcvadhhevc0nsh03pu94jg28nst9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
